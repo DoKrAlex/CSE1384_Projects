@@ -1,0 +1,23 @@
+apple
+Fuji
+0004
+345
+0.66
+1
+Salt Lake City, UT
+
+apple
+Pink Lady
+0005
+53
+0.92
+1
+Boise, ID
+
+apple
+Red Delicious
+0006
+345
+0.40
+0
+Detroit, MI
